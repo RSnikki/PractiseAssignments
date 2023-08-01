@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\bin\Debug\MasterMechLib.dll
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\bin\Debug\MasterMechLib.pdb
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\obj\Debug\MasterMechLib.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\obj\Debug\MasterMechLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\obj\Debug\MasterMechLib.dll
+C:\Users\HP\source\repos\MasterMechLib\MasterMechLib\obj\Debug\MasterMechLib.pdb
